@@ -1,2 +1,21 @@
 # CS171
-Final project for CS171 class
+Project Title: 
+
+
+Authors:
+Mahir Islam
+
+Description of Question and Research Topic (5 Sentences):
+
+
+Project Outline/Plan:
+
+
+	Data Collection Plan (two parts, one for each author):
+
+	
+	Model Plans (two parts, one for each author):
+
+	
+	Project Timeline:
+	
