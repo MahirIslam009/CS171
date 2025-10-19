@@ -3,7 +3,7 @@ Project Title:
 
 
 Authors:
-Mahir Islam
+Mahir Islam, Kaulan Serzhnauly
 
 Description of Question and Research Topic (5 Sentences):
 
