@@ -35,5 +35,5 @@ We want to see which model performs better for each task and understand how they
 
 	
 ***Project Timeline:***
-TBD
+November 30 or December 1
 	
