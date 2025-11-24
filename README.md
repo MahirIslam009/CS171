@@ -18,7 +18,7 @@ We want to see which model performs better for each task and understand how they
 ***Project Outline/Plan:***
 	Data Collection Plan (two parts, one for each author):
 	- **Car Price Dataset:** [Kaggle Car Price Prediction](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction)
-    - **Fuel Efficiency Dataset:** [UCI Auto MPG Dataset](https://archive.ics.uci.edu/ml/datasets/auto+mpg)
+    - **Fuel Efficiency Dataset:** [Kaggle Auto Mpg Data Set](https://www.kaggle.com/datasets/uciml/autompg-dataset?resource=download)
 	
 ***Model Plans (two parts, one for each author):***
 
