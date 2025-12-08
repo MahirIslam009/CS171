@@ -12,25 +12,20 @@ This project investigates how different machine learning models—both classical
 We study two prediction problems:
 1. **Used Car Price Prediction** (Mahir)  
 2. **Fuel Efficiency (MPG) Prediction** (Kaulan)
-For each dataset, we compare a **traditional ML model** with a **Multi-Layer Perceptron (MLP)** neural network to evaluate how nonlinear learning affects performance.  
+For each dataset, we compare  different **traditional ML model** and a **Multi-Layer Perceptron (MLP)** neural network to evaluate how nonlinear learning affects performance.  
 Our goal is to determine **which model generalizes better**, understand why, and interpret key predictive factors.
 
-### Project File Structure (Mahir)
+### Project File Structure
 CS171
 │
-├── data/
-│ ├── CarPrice_Assignment.csv
-│ └── auto-mpg.csv
-│
-├── notebooks/
-│ ├── preprocessing_car_price.ipynb
-│ ├── model_car_price.ipynb
-│ ├── analysis_car_price.ipynb
-│ ├── preprocessing_mpg.ipynb
-│ ├── model_mpg.ipynb
-│ └── analysis_mpg.ipynb
-│
-├── images/
+├── auto-mpg.csv
+├── CarPrice_Assignment.csv
+├── cleaned_auto_mpg.xls
+├── Final_Poject_Fuel_Efficiency.ipynb
+├── FinalProject_CarPrice.ipynb
+├── LICENSE
+├── README.md
+├── tmp.csv
 └── README.md
 
 ### Environment Setup & Reproducibility
@@ -41,9 +36,9 @@ The environment includes Python 3.12, numpy, pandas, matplotlib, seaborn, scikit
 ### Description of Question and Research Topic (5 Sentences):
 This project looks at using the machine learning tools we used in class to predict used car prices and car fuel efficiency based off real-world datasets.
 Each team member focuses on one dataset:
-- **Author 1:** Car Price Prediction
-- **Author 2:** Fuel Efficiency Prediction
-For car prices, we will compare a Decision Tree with a Multi-Layer Perceptron.
+- **Mahir Islam:** Car Price Prediction
+- **Kaulan Serzhanuly:** Fuel Efficiency Prediction
+For car prices, we will compare Linear Regression, K Nearest Neighbors, Decision Tree, Random Forest, Bagging, Voting, and Multi Layer Perceptron.
 For fuel efficiency, we compare a Linear Regression model with a MLP to see how non-linear learning affects accuracy.
 We want to see which model performs better for each task and understand how they differ in accuracy.
 
@@ -54,12 +49,17 @@ We want to see which model performs better for each task and understand how they
 	
 ***Model Plans (two parts, one for each author):***
 
-#### Author 1 – Car Price Prediction
+#### Mahir Islam – Car Price Prediction
 - **Models:**
-  1. Multi-Layer Perceptron
-  2. Decision Tree
-- **Goal:** Compare and contrast two models
-#### Author 2 – Fuel Efficiency (MPG) Prediction
+  1. Linear Regression
+  2. K Nearest Neighbors
+  3. Decision Tree
+  4. Random Forest
+  5. Bagging
+  6. Voting
+  7. Multi Layer Perceptron
+- **Goal:** Compare and contrast six models
+#### Kaulan Serzhanuly – Fuel Efficiency (MPG) Prediction
 - **Models:**
   1. Linear Regression
   2. Multi-Layer Perceptron
@@ -67,5 +67,5 @@ We want to see which model performs better for each task and understand how they
 
 	
 ***Project Timeline:***
-November 30 or December 1
+December 1
 	
