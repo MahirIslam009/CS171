@@ -12,6 +12,7 @@ This project investigates how different machine learning models—both classical
 We study two prediction problems:
 1. **Car Price Prediction** (Mahir)  
 2. **Fuel Efficiency (MPG) Prediction** (Kaulan)
+
 For each dataset, we compare  different **traditional ML model** and a **Multi-Layer Perceptron (MLP)** neural network to evaluate how nonlinear learning affects performance.  
 Our goal is to determine **which model generalizes better**, understand why, and interpret key predictive factors.
 
@@ -36,14 +37,16 @@ This project looks at using the machine learning tools we used in class to predi
 Each team member focuses on one dataset:
 - **Mahir Islam:** Car Price Prediction
 - **Kaulan Serzhanuly:** Fuel Efficiency Prediction
+
 For car prices, we will compare *Linear Regression, K Nearest Neighbors, Decision Tree, Random Forest, Bagging, Voting, and Multi Layer Perceptron (MLP).*
 For fuel efficiency, we compare a *Linear Regression* model with a *MLP* to see how non-linear learning affects accuracy.
 We want to see which model performs better for each task and understand how they differ in accuracy and error.
 
-***Project Outline/Plan:***
-	Data Collection Plan (two parts, one for each author):
-	- **Car Price Dataset:** [Kaggle Car Price Prediction](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction)
-    - **Fuel Efficiency Dataset:** [Kaggle Auto Mpg Data Set](https://www.kaggle.com/datasets/uciml/autompg-dataset?resource=download)
+
+### Project Outline/Plan:
+	Data Collection Plan (two parts, one for each author):	
+- **Car Price Dataset:** [Kaggle Car Price Prediction](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction)
+- **Fuel Efficiency Dataset:** [Kaggle Auto Mpg Data Set](https://www.kaggle.com/datasets/uciml/autompg-dataset?resource=download)
 	
 ***Model Plans (two parts, one for each author):***
 
